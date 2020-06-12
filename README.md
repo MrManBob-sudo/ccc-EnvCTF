@@ -6,3 +6,6 @@ This is a CTF where you must find out why the C program isn't working. SPOLIERS:
 
 Flag : EnvMakeCyberz
 
+# Breifing 
+
+Hello, There is a program in build/download that just will not open. Can you try to open it?
