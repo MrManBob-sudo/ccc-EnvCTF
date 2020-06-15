@@ -8,4 +8,4 @@ Flag : EnvMakeCyberz
 
 # Breifing 
 
-Hello, There is a program in build/download that just will not open. Can you try to open it?
+Hello, There is a program in build that just will not open. It is named golden ticket. You need a golden ticket to access it however we can't seem to find the golden ticket. 
